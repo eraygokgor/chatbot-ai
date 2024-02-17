@@ -292,3 +292,4 @@ task/
 input/
 *.ipynb
 log/
+outputs/
